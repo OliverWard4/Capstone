@@ -1,0 +1,6 @@
+Which national park contains the deepest lake in the U.S.? | Yellowstone, Crater Lake, Zion, Everglades | 2
+Which national park is home to the world’s tallest trees? | Grand Canyon, Yosemite, Redwood, Glacier | 3
+Which national park has geothermal features like geysers and hot springs? | Yellowstone, Acadia, Olympic, Biscayne | 1
+Which national park is known for its giant saguaro cacti? | Saguaro, Arches, Badlands, Shenandoah | 1
+Which national park features the famous Angels Landing hike? | Rocky Mountain, Zion, Joshua Tree, Denali | 2
+Which one is not a national park? | Glacier, Acadia, Great Basin, Freedom Park | 4

@@ -1,0 +1,8 @@
+What is the end goal of this level? | A Tree, A Dog, A House, No Goal | 3
+Where do you click to place a tower or use the chainsaw? | Bottom right, Top right, Top left, Bottom left | 4
+How much more does a tower cost than a line? | +1, +2, +3, +0 | 1
+What tool deletes towers you have placed? | Bicycle, Teapot, Mouse Cursor, Chainsaw | 4
+What do you need to click, drag, and connect to beat the level? | Trees, Towers, Tulips, Terrain | 2
+How do you know you can cut down a tree? | Falling Leaves, Wind, It's small, You can't | 1
+How do you remove placed lines? | You can't, Clicking them, Clicking their tower, Chainsawing them | 2
+What is the menu button? | Space, P, Esc or Tab, No Menu | 3

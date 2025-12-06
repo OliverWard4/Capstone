@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: f7c4559169e4b124c9d40d7bf87ac77a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8cb55314b74642b957abe046d0817
+      internalID: 542114197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c101b2e1ba874d34ab4b9f0b6ca79efb
+      internalID: -1525830421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb078c9acf5d52443ac46d3b443e2a87
+      internalID: -1165032092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7166b629b92545a7244ab224468ae
+      internalID: -606319159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e8b71beae7cf49a9bcedd8d0ba349
+      internalID: 1068316921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2659811adf41499846972563c2f2b
+      internalID: -613432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcecafc9f77957f489b4179b9764db53
+      internalID: -851160521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbe8b220b916ed42a072390f276c208
+      internalID: 613131556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc963160508ea4592383aade2c5576
+      internalID: 649406051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163315328600e984992d4527b4a7b439
+      internalID: 1848596531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b15cdbd83b7294894c6ffd70649a26
+      internalID: -1252757542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365ff8cf0a3aeb4ea9375da221db186
+      internalID: -848661853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_animation_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f1bbf754bd30438ea1e68694c3066
+      internalID: -820125346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trees_animation_0: 542114197
+      Trees_animation_1: 1864563424
+      Trees_animation_10: -1845905869
+      Trees_animation_100: -1219542319
+      Trees_animation_101: -569963592
+      Trees_animation_102: -389254218
+      Trees_animation_103: -675848695
+      Trees_animation_104: -90031498
+      Trees_animation_105: 950479743
+      Trees_animation_106: -994387811
+      Trees_animation_107: 27713535
+      Trees_animation_108: -820125346
+      Trees_animation_109: -1121812098
+      Trees_animation_11: 2113251201
+      Trees_animation_110: 238124960
+      Trees_animation_111: -1912053879
+      Trees_animation_112: -664606936
+      Trees_animation_113: 1965487289
+      Trees_animation_114: 858906254
+      Trees_animation_115: 630101574
+      Trees_animation_116: 1450478972
+      Trees_animation_12: 1616065625
+      Trees_animation_13: 336627492
+      Trees_animation_14: 1633847140
+      Trees_animation_15: -1076007030
+      Trees_animation_16: -1485739493
+      Trees_animation_17: 1372757096
+      Trees_animation_18: -1165032092
+      Trees_animation_19: 2084105990
+      Trees_animation_2: 1888426312
+      Trees_animation_20: -1464259105
+      Trees_animation_21: 531093182
+      Trees_animation_22: 130371511
+      Trees_animation_23: -1675762117
+      Trees_animation_24: 4904097
+      Trees_animation_25: 1921728616
+      Trees_animation_26: 1751525731
+      Trees_animation_27: -606319159
+      Trees_animation_28: 171669801
+      Trees_animation_29: 1939771350
+      Trees_animation_3: 1473870553
+      Trees_animation_30: -1200981215
+      Trees_animation_31: 178581976
+      Trees_animation_32: 1657635798
+      Trees_animation_33: -18529954
+      Trees_animation_34: -1600707056
+      Trees_animation_35: 485322783
+      Trees_animation_36: 1068316921
+      Trees_animation_37: 2095741198
+      Trees_animation_38: -1119080969
+      Trees_animation_39: -1277319614
+      Trees_animation_4: -2134253131
+      Trees_animation_40: 2005753521
+      Trees_animation_41: -1014912812
+      Trees_animation_42: -240617714
+      Trees_animation_43: -1859231899
+      Trees_animation_44: -2034236629
+      Trees_animation_45: -613432588
+      Trees_animation_46: -612187021
+      Trees_animation_47: -948344528
+      Trees_animation_48: -1395181741
+      Trees_animation_49: -1725434476
+      Trees_animation_5: -969651290
+      Trees_animation_50: 1318360904
+      Trees_animation_51: 1830960161
+      Trees_animation_52: -367182674
+      Trees_animation_53: 1307747465
+      Trees_animation_54: -851160521
+      Trees_animation_55: -381835123
+      Trees_animation_56: -2135782048
+      Trees_animation_57: 1347758510
+      Trees_animation_58: -1910323893
+      Trees_animation_59: 1185562951
+      Trees_animation_6: -642455936
+      Trees_animation_60: -750640214
+      Trees_animation_61: 1957990845
+      Trees_animation_62: -1592532414
+      Trees_animation_63: 613131556
+      Trees_animation_64: 819933916
+      Trees_animation_65: 1961870725
+      Trees_animation_66: 1654937904
+      Trees_animation_67: 354448977
+      Trees_animation_68: -1338465748
+      Trees_animation_69: 92074633
+      Trees_animation_7: 893897499
+      Trees_animation_70: -1605540344
+      Trees_animation_71: -1900004258
+      Trees_animation_72: 649406051
+      Trees_animation_73: 1407168985
+      Trees_animation_74: 1959782826
+      Trees_animation_75: -667718744
+      Trees_animation_76: 2082015175
+      Trees_animation_77: 1643735244
+      Trees_animation_78: 1411431284
+      Trees_animation_79: -727095541
+      Trees_animation_8: -1516150071
+      Trees_animation_80: 1614958903
+      Trees_animation_81: 1848596531
+      Trees_animation_82: -1881887503
+      Trees_animation_83: -25891849
+      Trees_animation_84: -1776380033
+      Trees_animation_85: 1497346804
+      Trees_animation_86: 1806458568
+      Trees_animation_87: 1909370482
+      Trees_animation_88: -1938995146
+      Trees_animation_89: -97526213
+      Trees_animation_9: -1525830421
+      Trees_animation_90: -1252757542
+      Trees_animation_91: -1103241441
+      Trees_animation_92: 202958638
+      Trees_animation_93: 1686702852
+      Trees_animation_94: -1357039565
+      Trees_animation_95: 1539900310
+      Trees_animation_96: 720712745
+      Trees_animation_97: 253168736
+      Trees_animation_98: -236425262
+      Trees_animation_99: -848661853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
